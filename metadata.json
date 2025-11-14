@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Downloader 2",
+  "description": "An offline application to download MP3s and videos from YouTube. This app provides a preview, video information, and options for bitrate and quality selection. Note: This is a UI demonstration and does not perform actual downloads.",
+  "requestFramePermissions": []
+}
